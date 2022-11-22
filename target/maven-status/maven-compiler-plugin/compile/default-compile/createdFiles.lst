@@ -1,0 +1,6 @@
+com\mycompany\decorator\Beef.class
+com\mycompany\decorator\SandwitchDecorator.class
+com\mycompany\decorator\Sandwitch.class
+com\mycompany\decorator\Decorator.class
+com\mycompany\decorator\BasicSandwitch.class
+com\mycompany\decorator\Cheese.class
